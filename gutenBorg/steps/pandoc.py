@@ -1,6 +1,7 @@
 import subprocess as sp
+import pypandoc as pp
 
-def pandoc(self,input_filename,output_filename,opts):
-        pass
+def pandoc(**kwargs):
+    pass
 
         

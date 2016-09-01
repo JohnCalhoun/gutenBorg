@@ -1,6 +1,7 @@
 import subprocess as sp
 
-def shell(self,input_filename,output_filename,opts):
-        pass
+def shell(**kwargs):
+    """Runs an arbitrary bash script"""
+    pass
 
         

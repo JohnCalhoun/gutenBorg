@@ -1,0 +1,14 @@
+{
+    "logfile":"",
+    "errorfile":"", 
+    "steps":[
+        {
+            "name":"pandoc", 
+            "opts":{ "a":1 } 
+        },
+        {
+            "name":"shell", 
+            "opts":{ "a":1 }
+        }
+    ]
+}
